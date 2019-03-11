@@ -2,6 +2,7 @@
 
 * [Fungsi pada Excel yang sering digunakan](README.md)
 * [Fungsi dalam Microsoft Excel](READMEkhoi.md)
+* [5 Fungsi Penting EXCEL](READMEnau.md)
 
 ## Fungsi dalam Microsoft excel
 
@@ -16,3 +17,4 @@
 * [Fungsi Hlookup](fungsi-dalam-microsoft-excel/fungsi-hlookup.md)
 * [Fungsi Vlookup](fungsi-dalam-microsoft-excel/fungsi-vlookup.md)
 * [Fungsi Round](fungsi-dalam-microsoft-excel/fungsi-round.md)
+* [Fungsi Pada MS.EXCEL](fungsi-pada-ms.excel.md)
